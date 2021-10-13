@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');     
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200&family=Birthstone&family=Maven+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,300&display=swap');
+.link-cust {
+    font-family: 'Montserrat', sans-serif;
+    color:darkslategrey;
+    font-size: 22px;
+
+}
+a:hover {
+    color: black !important;
+    font-weight: bolder;
+    font-style: bold;
+    text-decoration: underline;
+
+}
+.text-cust {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(7, 7, 7, 0.774);
+    font-size: 90px;  
+}
+.desc-cust {
+    font-size: 20px;
+}
+.form-cust {
+    background-color: rgb(212, 212, 212);
+    border-bottom: black;
+    border-style:solid;
+    border-width: thin;
+    
+}
+.cont-cust {
+    background-color: white;
+    border-radius: 5px;
+  
+}
+body {
+    background-color: rgb(212, 212, 212);
+}
+#portada{
+	margin: 0px;
+	padding: 0px;
+	background-image: url('../imagenes/Fondos-01.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+}
